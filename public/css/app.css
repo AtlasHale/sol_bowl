@@ -1,0 +1,17 @@
+.error{
+    color:gray;
+    font-size: 30px;
+    text-align: center;
+}
+
+.jumbotron{
+    text-align: center;
+    color:#1e7ec3
+}
+
+.iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+}
+
